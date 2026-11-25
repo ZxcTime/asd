@@ -1,0 +1,23 @@
+{
+  "signatures": {
+    "dwEntityList": 0x270D5B0,
+    "dwLocalPlayerPawn": 0x2557AB8
+  },
+  "netvars": {
+    "m_pWeaponServices": 0xBB0,
+    "m_hMyWeapons": 0x48,
+    "m_hActiveWeapon": 0x60,
+    "m_AttributeManager": 0x1180,
+    "m_Item": 0x50,
+    "m_iItemDefinitionIndex": 0x1BA,
+    "m_iItemIDHigh": 0x1D0,
+    "m_iItemIDLow": 0x1D4,
+    "m_bInitialized": 0x1D8,
+    "m_nFallbackPaintKit": 0x18A8,
+    "m_nFallbackSeed": 0x18AC,
+    "m_flFallbackWear": 0x18B0,
+    "m_nFallbackStatTrak": 0x18B4,
+    "m_iTeamNum": 0x3E3,
+    "m_steamID": 0x0
+  }
+}
